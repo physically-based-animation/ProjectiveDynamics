@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(tinyxmlSTL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1545,5): warning MSB8012: TargetPath(F:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\x64\Debug\tinyxml.lib) 与 Library 的 OutputFile 属性值(F:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\Debug\tinyxmld.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1547,5): warning MSB8012: TargetName(tinyxml) 与 Library 的 OutputFile 属性值(tinyxmld)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  tinyxml_lib.vcxproj -> F:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\x64\Debug\tinyxml.lib

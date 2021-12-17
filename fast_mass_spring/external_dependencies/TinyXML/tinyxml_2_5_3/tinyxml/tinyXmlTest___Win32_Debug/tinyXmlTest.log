@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: 正在首次将属性“DebugType”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)”处使用了该属性。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(372,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  xmltest.cpp
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(933,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1092,25): error C2001: 常量中有换行符
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1099,64): error C2001: 常量中有换行符
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1100,13): error C2146: 语法错误: 缺少“)”(在标识符“TiXmlHandle”的前面)
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1100,13): error C2146: 语法错误: 缺少“;”(在标识符“TiXmlHandle”的前面)
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1103,45): error C2001: 常量中有换行符
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1104,5): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1103,13): error C2661: “XmlTest”: 没有重载函数接受 2 个参数
+f:\PBD\PD\external_dependencies\TinyXML\tinyxml_2_5_3\tinyxml\xmltest.cpp(1104,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
